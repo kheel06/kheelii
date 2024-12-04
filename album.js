@@ -22,14 +22,14 @@ new Vue({
           img1: "images/3.jpg",
           img2: "images/9.jpg",
           img3: "images/10.jpg",
-          title: "BABIES",
+          title: "MAGNIGICENT",
           isOpen: false,
         },
         {
           img1: "images/11.jpg",
           img2: "images/16.jpg",
           img3: "images/12.jpg",
-          title: "SLEEP",
+          title: "ELEGANT",
           isOpen: false,
         },
         {
