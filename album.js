@@ -22,7 +22,7 @@ new Vue({
           img1: "images/3.jpg",
           img2: "images/9.jpg",
           img3: "images/10.jpg",
-          title: "MAGNIGICENT",
+          title: "MAGNIFICENT",
           isOpen: false,
         },
         {
